@@ -1,6 +1,6 @@
 # BlenderTrackExport
 Blender Add-on for exporting the xy image coordinates of tracks made in Blender (Version >= 2.8).\
-This guide is ment for Blender beginners, tht just want to get some quick and easy video tracking done.
+This guide is ment for Blender beginners, who just want to get some quick and easy video tracking done.
 Very helpful for quick scientific video analyses and more handy than doing tracking in ImageJ.
 
 ## Installation
@@ -53,3 +53,10 @@ Very helpful for quick scientific video analyses and more handy than doing track
 How to use Pattern size, Search size, correlation and weights\
 to be added.
 
+
+
+
+
+## Future Ideas:
+- Add options for custom coordinate origin, e.g. different corner/set one track to be the origin
+- option to export all tracks into one file
