@@ -7,6 +7,10 @@ Very helpful for quick scientific video analyses and more handy than doing track
 
 - Step 1: download the export_add_on.py file
 
+Either via git clone,\
+or go to the [raw file](https://raw.githubusercontent.com/LorMam/BlenderTrackExport/master/export_add_on.py), right click -> save as...
+
+
 - Step 2: open Blender, navigate to Edit -> Preferences -> Add-ons
 
 ![plot](https://github.com/LorMam/BlenderTrackExport/blob/master/doc/1_open_preferences.png)
