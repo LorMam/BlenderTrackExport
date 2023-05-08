@@ -23,6 +23,9 @@ or go to the [raw file](https://raw.githubusercontent.com/LorMam/BlenderTrackExp
 
 ![plot](https://github.com/LorMam/BlenderTrackExport/blob/master/doc/3_activate_addon.png)
 
+When the Add-on does not show up, check whether you downloaded the right file.\
+Opened in the Editor, the file should look like [this](https://raw.githubusercontent.com/LorMam/BlenderTrackExport/master/export_add_on.py).
+
 ## Video Tracking in Blender
 
 - Step 1: open Blender, select Video Editing
